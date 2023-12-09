@@ -28,4 +28,4 @@
 
 ## Автор
 
-* **Шуметов Максим** - *Initial work* - [DDatel35](https://github.com/Ddatel35)
+* **Шуметов Максим** - *Initial work* - [Ddatel35](https://github.com/Ddatel35)
